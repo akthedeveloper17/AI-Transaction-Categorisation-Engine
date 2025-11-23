@@ -112,11 +112,23 @@ Designed for maintainability, portability, and domain expansion.
 
 ▶︎ Ideal for GDPR, HIPAA, and finance-compliant environments
 
+``` ⎋ Steps To Run this Project 
+npm install
+
+npm dev run
+
+```
+
 🚀 Why This Project Stands Out (Hackathon Value)
 
 ✅ Solves a real, universal financial pain point
+
 ✅ Technically impressive yet user-friendly
+
 ✅ Demonstrates ML, UI engineering, and product thinking
+
 ✅ Production-ready — not just a prototype
+
 ✅ No infrastructure cost, highly scalable
+
 ✅ Unique focus on privacy-first AI
