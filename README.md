@@ -78,6 +78,7 @@ This system provides fast, accurate, local categorization powered by a custom cl
 
 🔎 System Architecture
 
+<img width="766" height="576" alt="Architecture" src="https://github.com/user-attachments/assets/49032f50-c1f4-48e5-a787-4664d3fdf1cf" />
 
 
 
