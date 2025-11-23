@@ -112,7 +112,9 @@ Designed for maintainability, portability, and domain expansion.
 
 ▶︎ Ideal for GDPR, HIPAA, and finance-compliant environments
 
-``` ⎋ Steps To Run this Project 
+# ⎋ Steps To Run this Project
+
+```  
 npm install
 
 npm dev run
