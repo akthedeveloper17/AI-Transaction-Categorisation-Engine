@@ -134,3 +134,11 @@ npm dev run
 ✅ No infrastructure cost, highly scalable
 
 ✅ Unique focus on privacy-first AI
+
+# Demonstration
+
+
+
+
+https://github.com/user-attachments/assets/9fb63226-9f70-4825-8e47-febdd088f10d
+
